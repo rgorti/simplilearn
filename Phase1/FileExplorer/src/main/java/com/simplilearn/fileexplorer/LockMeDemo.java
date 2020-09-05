@@ -23,7 +23,7 @@ public class LockMeDemo {
     private void printHeader(){
         System.out.println("#------------------------------------------#");
         System.out.println("|           WELCOME TO LOCKME DEMO         |");
-        System.out.println("|          FILE MANAGER APPLICATION        |");
+        System.out.println("|          FILE EXPLORER APPLICATION        |");
         System.out.println("#------------------------------------------#");
     }
 
